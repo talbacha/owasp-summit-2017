@@ -8,3 +8,5 @@ linkedin: talalbasha
 twitter: talal_basha1982
 facebook:
 ---
+LinkedIn: https://www.linkedin.com/in/talalbasha/
+twitter: https://twitter.com/talal_basha1982
